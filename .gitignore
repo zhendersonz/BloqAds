@@ -1,0 +1,14 @@
+# Build outputs
+out/
+dist/
+dex/
+
+# IDE
+.idea/
+*.iml
+
+# Keystore (already in repo, but good to note)
+# keystore.jks
+
+# Local config
+local.properties

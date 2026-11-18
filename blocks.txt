@@ -1,0 +1,4 @@
+# BloqAds - lista externa de bloqueio
+# Um dominio por linha. Bloqueia o dominio e todos os subdominios.
+# Linhas comecando com # sao comentarios.
+# Adicione aqui os dominios de propaganda que escaparem.
